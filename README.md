@@ -1,6 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<h3>Name: Anto Aakash M                    </h3>
-<h3>Register Number: 212224030003            </h3>
+
 
 # Aim
 To solve Implementation of Classical Planning Algorithm using python
